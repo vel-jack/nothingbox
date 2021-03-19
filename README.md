@@ -4,7 +4,7 @@ Learning and making games and apps.\
 Developer of [cress pro](https://play.google.com/store/apps/details?id=com.emptybox.cresspro)\
 Published games on [itch.io](https://the-vjack.itch.io)\
 Started flutter with [Mini Todo](https://play.google.com/store/apps/details?id=com.emptybox.minitodo), [Hashtagram](https://play.google.com/store/apps/details?id=com.emptybox.minitodo) _------- //need to update hashtagram link_\
-Familiar with Godot game engine and Inkscape.\
+Familiar with Godot game engine and Inkscape\
 
 
 ## cress pro
