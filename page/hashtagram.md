@@ -9,8 +9,8 @@ Using this application you can easily view top/new images and videos of Instagra
 
 **Plugins used:**
 - [hive](https://pub.dev/packages/hive) (To save the post data)
-- [chewie]() (External video player plugin)
-- [http]() (To fetch the data from the instagram)
+- [chewie](https://pub.dev/packages/chewie) (External video player plugin)
+- [http](https://pub.dev/packages/http) (To fetch the data from the instagram)
 
 _*internet permission required_
 
