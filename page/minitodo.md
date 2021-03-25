@@ -21,4 +21,6 @@ Get it on  [google play](https://play.google.com/store/apps/details?id=com.empty
 
 ![icon](https://play-lh.googleusercontent.com/KOeCXxZeh3cmsWDLlptkjp9iOxz3bevlGf7sz7W1cxEuPGluTE1ZbuLXY5AMQGS6lBRM=s50)
 
+Watch App demo video
+[![minitodo](https://img.youtube.com/vi/<insert-youtube-video-id-here>/0.jpg)](https://www.youtube.com/watch?v=Eo6gu8itGzc)
 [privacy policy](https://vel-jack.github.io/nothingbox/policy/minitodo)
