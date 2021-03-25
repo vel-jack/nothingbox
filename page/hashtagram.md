@@ -17,6 +17,8 @@ _*internet permission required_
 Get it on  [google play](https://play.google.com/store/apps/details?id=com.emptybox.hastagram)
 
 ![icon](https://play-lh.googleusercontent.com/xbZkPyd3Nblz1snQ9a81M74-BRiXXapmDz0CQ1y4X7Kx40UtOmAi9w2uVlVDDmE5cA=s40)\
-[![Hashtagram](https://img.youtube.com/vi/yO-PCiKna44/0.jpg)](https://www.youtube.com/watch?v=yO-PCiKna44)\
+Watch Hashtagram Demo Video on youtube\
+[![Hashtagram](https://img.youtube.com/vi/yO-PCiKna44/0.jpg)](https://www.youtube.com/watch?v=yO-PCiKna44)
+
 
 [privacy policy](https://vel-jack.github.io/nothingbox/policy/hashtagram)
