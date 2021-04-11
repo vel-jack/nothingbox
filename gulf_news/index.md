@@ -1,6 +1,6 @@
 
 ### Gulf News App
-**Downloads**\
+#### Downloads
 [Click here](https://github.com/vel-jack/nothingbox/raw/master/gulf_news/app-release.apk) 
 to download Single apk or choose your architechure 
 [armv7a](https://github.com/vel-jack/nothingbox/raw/master/gulf_news/app-armeabi-v7a-release.apk), 
