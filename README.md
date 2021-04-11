@@ -22,5 +22,7 @@ Get it on [google play](https://play.google.com/store/apps/details?id=com.emptyb
 
 UI design using flutter [Whatsapp](https://www.youtube.com/watch?v=6oDfp7cgOO4),[Simple Food delivery](https://www.youtube.com/watch?v=F2H9ASBnYx0)
 
+Gulf News app [Download App(apk)](https://vel-jack.github.io/nothingbox/gulf_news/index)
+
 **@nothingboxgams** [twitter](https://www.twitter.com/nothingboxgames) [instagram](https://www.instagram.com/nothingboxgames/)
 
