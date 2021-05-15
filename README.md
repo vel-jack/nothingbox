@@ -1,9 +1,10 @@
 # Hi, I am Vel
 
 Learning and making apps and games.\
-Developer of [cress pro](https://play.google.com/store/apps/details?id=com.emptybox.cresspro)\
-Published apps and games on [Google Play Store](https://play.google.com/store/apps/developer?id=Nothing+Box+Games), [Itch.io](https://the-vjack.itch.io)\
+Developer of [cress pro](https://play.google.com/store/apps/details?id=com.emptybox.cresspro)🟣\
+Published apps and games 🎮 on [Google Play Store](https://play.google.com/store/apps/developer?id=Nothing+Box+Games), [Itch.io](https://the-vjack.itch.io)\
 Started flutter with [Mini Todo](https://play.google.com/store/apps/details?id=com.emptybox.minitodo), [Hashtagram](https://play.google.com/store/apps/details?id=com.emptybox.hastagram)\
+Currently working on bus timing app 🇧🇭\
 Familiar with Godot game engine and Inkscape
 
 
