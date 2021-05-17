@@ -19,11 +19,10 @@ Get it on [google play](https://play.google.com/store/apps/details?id=com.emptyb
 >![Mini Todo](https://play-lh.googleusercontent.com/KOeCXxZeh3cmsWDLlptkjp9iOxz3bevlGf7sz7W1cxEuPGluTE1ZbuLXY5AMQGS6lBRM=s30) [Mini Todo](https://play.google.com/store/apps/details?id=com.emptybox.minitodo)[🔗](https://vel-jack.github.io/nothingbox/page/minitodo.html)\
 ![Hashtagram](https://play-lh.googleusercontent.com/xbZkPyd3Nblz1snQ9a81M74-BRiXXapmDz0CQ1y4X7Kx40UtOmAi9w2uVlVDDmE5cA=s30) [Hashtagram](https://play.google.com/store/apps/details?id=com.emptybox.hastagram)[🔗](https://vel-jack.github.io/nothingbox/page/hashtagram.html)\
 ![Mind dots](https://img.itch.zone/aW1nLzE4MjE3NDUucG5n/32x32%23/BDlRnh.png) [Mind dots](https://the-vjack.itch.io/mind-dots)\
-![Color Sky](https://img.itch.zone/aW1nLzIxNTI2NTIuanBn/32x32%23/QTRgMu.jpg) [Color Sky](https://the-vjack.itch.io/color-sky)
+![Color Sky](https://img.itch.zone/aW1nLzIxNTI2NTIuanBn/32x32%23/QTRgMu.jpg) [Color Sky](https://the-vjack.itch.io/color-sky)\
+📰 [Gulf News app](https://vel-jack.github.io/nothingbox/gulf_news/index)
 
 UI design using flutter [Whatsapp](https://www.youtube.com/watch?v=6oDfp7cgOO4),[Simple Food delivery](https://www.youtube.com/watch?v=F2H9ASBnYx0)
-
-Gulf News app [Download App(apk)](https://vel-jack.github.io/nothingbox/gulf_news/index)
 
 **@nothingboxgams** [twitter](https://www.twitter.com/nothingboxgames) [instagram](https://www.instagram.com/nothingboxgames/)
 
