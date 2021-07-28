@@ -30,8 +30,8 @@ Get it on [google play](https://play.google.com/store/apps/details?id=com.emptyb
 
 UI design using flutter \
 <img src="https://github.com/vel-jack/nothingbox/raw/master/sampledata/wp.png" alt="wp_alt" width="150"> [Whatsapp](https://www.youtube.com/watch?v=6oDfp7cgOO4),\
-<img src="https://github.com/vel-jack/nothingbox/raw/master/sampledata/fd1.png" alt="fd_alt" width="150"> [Simple Food delivery](https://www.youtube.com/watch?v=F2H9ASBnYx0)
+<img src="https://github.com/vel-jack/nothingbox/raw/master/sampledata/fd1.png" alt="fd_alt" width="150"> [Simple Food delivery](https://www.youtube.com/watch?v=F2H9ASBnYx0)\
 
 **@nothingboxgams** [twitter](https://www.twitter.com/nothingboxgames) [instagram](https://www.instagram.com/nothingboxgames/)\
-[Linkedin](https://bh.linkedin.com/in/vel-murugan-596970203?trk=public_post_share-update_actor-text)
-
+[Linkedin](https://bh.linkedin.com/in/vel-murugan-596970203?trk=public_post_share-update_actor-text)\
+[UI design](https://youtube.com/playlist?list=PLuzZQMlVoNs_Zi64et_ALcHVNBhfANDdQ)
