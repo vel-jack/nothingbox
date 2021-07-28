@@ -29,7 +29,7 @@ Get it on [google play](https://play.google.com/store/apps/details?id=com.emptyb
 📰 [Gulf News app](https://vel-jack.github.io/nothingbox/gulf_news/index)
 
 UI design using flutter \
-![wp_alt](https://github.com/vel-jack/nothingbox/raw/master/sampledata/wp.png) [Whatsapp](https://www.youtube.com/watch?v=6oDfp7cgOO4),\
+![wp_alt](https://github.com/vel-jack/nothingbox/raw/master/sampledata/wp.png| width=100) [Whatsapp](https://www.youtube.com/watch?v=6oDfp7cgOO4),\
 ![fd_alt](https://github.com/vel-jack/nothingbox/raw/master/sampledata/fd1.png) [Simple Food delivery](https://www.youtube.com/watch?v=F2H9ASBnYx0)
 
 **@nothingboxgams** [twitter](https://www.twitter.com/nothingboxgames) [instagram](https://www.instagram.com/nothingboxgames/)
