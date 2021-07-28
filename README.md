@@ -4,8 +4,8 @@ Learning and making apps and games.\
 Developer of [cress pro](https://play.google.com/store/apps/details?id=com.emptybox.cresspro)🟣\
 Published apps and games 🎮 on [Google Play Store](https://play.google.com/store/apps/developer?id=Nothing+Box+Games), [Itch.io](https://the-vjack.itch.io)\
 Started flutter with [Mini Todo](https://play.google.com/store/apps/details?id=com.emptybox.minitodo), [Hashtagram](https://play.google.com/store/apps/details?id=com.emptybox.hastagram)\
-Currently working on bus timing app 🇧🇭 [current demo](https://www.linkedin.com/posts/vel-murugan-596970203_bahrain-devlog-flutter-activity-6798993797914198016-vqwP)\
-Familiar with Godot game engine and Inkscape
+Currently working on bus timing app 🇧🇭 [Bahrain Bus](https://vel-jack.github.io/nothingbox/page/bhbus.html) using flutter.\
+Familiar with Godot game engine and Inkscape.
 
 ## Bahrain Bus
 Get it on [google play](https://play.google.com/store/apps/details?id=com.emptybox.bhbus)  [🔗](https://vel-jack.github.io/nothingbox/page/bhbus.html)\
@@ -32,5 +32,6 @@ UI design using flutter \
 <img src="https://github.com/vel-jack/nothingbox/raw/master/sampledata/wp.png" alt="wp_alt" width="150"> [Whatsapp](https://www.youtube.com/watch?v=6oDfp7cgOO4),\
 <img src="https://github.com/vel-jack/nothingbox/raw/master/sampledata/fd1.png" alt="fd_alt" width="150"> [Simple Food delivery](https://www.youtube.com/watch?v=F2H9ASBnYx0)
 
-**@nothingboxgams** [twitter](https://www.twitter.com/nothingboxgames) [instagram](https://www.instagram.com/nothingboxgames/)
+**@nothingboxgams** [twitter](https://www.twitter.com/nothingboxgames) [instagram](https://www.instagram.com/nothingboxgames/)\
+[Linkedin](https://bh.linkedin.com/in/vel-murugan-596970203?trk=public_post_share-update_actor-text)
 
