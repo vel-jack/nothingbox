@@ -2,7 +2,7 @@
 ## Bahrain Bus
 
 Bahrain Bus application gives bus timings of bahrain bus stops. All information collected from BPTC.\
-Issues, improvements, changes and development log found [here](https://trello.com/b/H2YpXnUN/bahrain-bus).\
+
 You can get this on [google play](https://play.google.com/store/apps/details?id=com.emptybox.bhbus) \
 ![icon](https://play-lh.googleusercontent.com/_VD1nSHJHLFzWyVZN0pzBec08WyH8xXMdm5fLgpOis5daiQMhAzJ4aMEqEMJxQw_uiE=s50)
  
